@@ -337,6 +337,12 @@ section {
   color: var(--color-muted);
 }
 
+.testimonial-card .lecturer-role {
+  color: var(--color-secondary);
+  font-weight: 600;
+  margin-bottom: var(--space-2);
+}
+
 .course-card h3,
 .career-card h3,
 .testimonial-card h3 {
