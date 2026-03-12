@@ -329,6 +329,7 @@ section {
   border-radius: var(--radius-md);
   padding: var(--space-5);
   transition: var(--transition-fast);
+  flex-direction: column;
 }
 
 .course-card p,
